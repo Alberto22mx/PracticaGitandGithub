@@ -20,3 +20,8 @@ body{
 #contenedor header img {
 	float: left;
 }
+#contenedor footer {
+	background: #96b6c6;
+	text-align: center;
+	color: white;
+}
